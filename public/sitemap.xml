@@ -2,17 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pelmeni.is/posts/my-first-post/</loc>
-    <lastmod>2022-07-17T00:29:48+00:00</lastmod>
-  </url><url>
     <loc>https://pelmeni.is/</loc>
-    <lastmod>2022-07-17T00:29:48+00:00</lastmod>
   </url><url>
-    <loc>https://pelmeni.is/posts/</loc>
-    <lastmod>2022-07-17T00:29:48+00:00</lastmod>
-  </url><url>
-    <loc>https://pelmeni.is/categories/</loc>
-  </url><url>
-    <loc>https://pelmeni.is/tags/</loc>
+    <loc>https://pelmeni.is/services/</loc>
   </url>
 </urlset>
