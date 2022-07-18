@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The "title" of your website
-title = "Jane Doe - Nutrition Coach & Chef Consultant"
+title = "Pelmeni (Meat dumplings / pierogi) | Reykjavik"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
